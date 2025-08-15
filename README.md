@@ -1,4 +1,3 @@
-```markdown
 # Deepfake Detection Tool
 
 A deep learning-based tool for detecting deepfake images using a pre-trained Xception model. The tool includes scripts for training a model and predicting whether an image is real or fake.
