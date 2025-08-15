@@ -20,7 +20,7 @@ A deep learning-based tool for detecting deepfake images using a pre-trained Xce
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ishakxdev/deepfake-detection.git
+   git clone https://github.com/ishakdev325/deepfake-detection.git
    cd deepfake-detection
    ```
 2. Install dependencies:
